@@ -1,3 +1,9 @@
+# TODO
+* Create Select elements
+    * use selected choices to update state of table
+* CSS
+* Tests
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
